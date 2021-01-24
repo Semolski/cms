@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83b71af0-386b-4b88-b7f2-a1274370a2f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1nO2g0748grRmov4yyH77HHdQge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cms" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83b71af0-386b-4b88-b7f2-a1274370a2f6" name="Default Changelist" comment="" />
+      <created>1611246925314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611246925314</updated>
+      <workItem from="1611246926569" duration="4237000" />
+      <workItem from="1611251233161" duration="12294000" />
+      <workItem from="1611333667234" duration="7889000" />
+      <workItem from="1611368526663" duration="5379000" />
+      <workItem from="1611418080247" duration="17910000" />
+      <workItem from="1611526345577" duration="3717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="302" key="#SQL_Dialects" timestamp="1611529919961">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="0" y="302" key="#SQL_Dialects/0.0.1707.920@0.0.1707.920" timestamp="1611529919961" />
+    <state x="343" y="186" key="NewPhpClassDialog" timestamp="1611427149366">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="343" y="186" key="NewPhpClassDialog/0.0.1707.920@0.0.1707.920" timestamp="1611427149366" />
+    <state x="256" y="386" key="NewPhpFileDialog" timestamp="1611427870304">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="256" y="386" key="NewPhpFileDialog/0.0.1707.920@0.0.1707.920" timestamp="1611427870304" />
+    <state x="19" y="106" key="SettingsEditor" timestamp="1611440910915">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="19" y="106" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1611440910915" />
+    <state x="78" y="214" key="run.anything.popup" timestamp="1611248817479">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="78" y="214" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1611248817479" />
+    <state x="239" y="199" width="672" height="678" key="search.everywhere.popup" timestamp="1611252582397">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="239" y="199" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1611252582397" />
+  </component>
+</project>
